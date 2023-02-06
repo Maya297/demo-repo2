@@ -2,4 +2,6 @@
 
 Some text
 
-## some text updated
+## local development
+
+1. index.html
