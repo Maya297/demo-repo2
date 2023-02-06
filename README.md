@@ -2,7 +2,5 @@
 
 Some text 
 
-## some text
-
 ## master branch
-1. Some text
+1. updated master branch
